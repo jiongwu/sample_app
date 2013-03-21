@@ -9,7 +9,7 @@
 #  updated_at :datetime         not null
 #
 
-require 'spec_helper'
+require_relative '../spec_helper'
 
 describe User do
   #pending "add some examples to (or delete) #{__FILE__}"
